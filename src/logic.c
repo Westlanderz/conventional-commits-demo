@@ -2,4 +2,6 @@
 
 #include <stdbool.h>
 
-bool check() { return true; }
+static bool check() { return true; }
+
+bool newCheck() { return check(); }
