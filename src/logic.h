@@ -3,6 +3,6 @@
 
 #include <stdbool.h>
 
-bool check();
+bool newCheck();
 
 #endif
